@@ -4,6 +4,6 @@
 
 Hello :) this is the commit from zero developer.
 
-Hi! I'm user (1).
+Hi! I'm user {1}.
 Hi! I'm user 2.
 Hi! I'm user 3.
